@@ -1,0 +1,22 @@
+.banner {
+  height: 75px;
+  /* margin: 0px -10px 10px; */
+  background-color: rgb(12, 37, 92);
+  border-radius: 2px;
+}
+
+.banner h1 {
+  color: white;
+  padding-top: 10px;
+  /* margin-left: 2%; */
+  display: inline-block;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 40px;
+}
+
+.banner Img {
+  position: relative;
+  float: right;
+  right: 10px;
+  height: 75px;
+}
